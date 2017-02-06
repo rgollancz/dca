@@ -14,3 +14,4 @@ Then I see FAQs page
 
 - Clone repo to local directory
 - Run `bundle install`
+- Run `rspec` from Terminal, in the top level directory
