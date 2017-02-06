@@ -1,5 +1,8 @@
 # Doctor Care Anywhere
 
+## About
+
+A small test suite, using RSpec and Capybara, focused on the FAQ section of the Doctor Care Anywhere website.
 
 ## User story
 
