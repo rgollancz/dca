@@ -5,9 +5,8 @@
 
 ```
 As a user when I go to https://doctorcareanywhere.com/
-And click on “What we do”
-And click on FAQs
-Then I see FAQs page
+And click on 'What we do', and then 'FAQs'
+Then I see the FAQs page
 ```
 
 ## To run
